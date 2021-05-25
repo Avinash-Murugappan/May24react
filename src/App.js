@@ -11,7 +11,7 @@ function App() {
       <Jumbotron fluid>
         <Container fluid>
           <h1 className="display-3">WELCOME TO BOOTCAMP - MAY 24 EDITION</h1>
-          <p className="lead">My Name is Sachin Rajgire and I am student here </p>
+          <p className="lead">My Name is Avinash Murugappan and I am student here </p>
           <NavBar />
 
           <Table dark>
@@ -42,8 +42,8 @@ function App() {
           <td>Front end github repository link where our instructors can review your code </td>
           <td><a href="https://github.com/sachinrajgire/May24react"> Link</a></td>
         </tr>
-      
-        
+
+
       </tbody>
     </Table>
         </Container>
