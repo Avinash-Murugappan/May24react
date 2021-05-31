@@ -95,6 +95,24 @@ function Homeworks() {
                   <td><a href="https://codepen.io/avinash-murugappan/pen/mdWqLgZ"> Link</a> </td>
                   <td> None </td>
                 </tr>
+
+              <tr>
+                  <th scope="row">5</th>
+                  <td>Homework 5.1</td>
+                  <td>Theme Change</td>
+                  <td><a href="https://codepen.io/avinash-murugappan/pen/mdWpVOG"> Link</a> </td>
+                  <td> None </td>
+                </tr>
+
+                <tr>
+                  <th scope="row">5</th>
+                  <td>Homework 5.2</td>
+                  <td>Frontier Homework</td>
+                  <td><a href="https://codepen.io/avinash-murugappan/pen/qBrpaGK"> Link</a> </td>
+                  <td> None </td>
+                </tr>
+
+
       </tbody>
     </Table>
         </Container>
