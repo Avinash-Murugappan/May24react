@@ -112,6 +112,14 @@ function Homeworks() {
                   <td> None </td>
                 </tr>
 
+                <tr>
+                  <th scope="row">8</th>
+                  <td>Homework 8.1</td>
+                  <td>Frontier Homework</td>
+                  <td><a href="https://productpage-homework8.netlify.app/"> Link</a> </td>
+                  <td> <a href="https://github.com/Avinash-Murugappan/Responsive-Product-Webpage"> Link</a> </td>
+                </tr>
+
 
       </tbody>
     </Table>
