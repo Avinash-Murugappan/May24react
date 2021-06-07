@@ -120,6 +120,22 @@ function Homeworks() {
                   <td> <a href="https://github.com/Avinash-Murugappan/Responsive-Product-Webpage"> Link</a> </td>
                 </tr>
 
+                 <tr>
+                  <th scope="row">10</th>
+                  <td>Homework 10.1</td>
+                  <td>CSS Grid</td>
+                  <td><a href="https://codepen.io/avinash-murugappan/pen/jOBKppy"> Link</a> </td>
+                  <td> <a> None</a> </td>
+                </tr>
+
+                <tr>
+                  <th scope="row">10</th>
+                  <td>Homework 10.2</td>
+                  <td>Lottery Project</td>
+                  <td><a href="https://codepen.io/avinash-murugappan/pen/jOBKpvB"> Link</a> </td>
+                  <td> <a> None</a> </td>
+                </tr>
+
 
       </tbody>
     </Table>
