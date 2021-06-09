@@ -136,6 +136,22 @@ function Homeworks() {
                   <td> <a> None</a> </td>
                 </tr>
 
+                <tr>
+                  <th scope="row">10</th>
+                  <td>Homework 10.4</td>
+                  <td>Hawaii Color Picker</td>
+                  <td><a href="https://codepen.io/avinash-murugappan/pen/xxqaGpZ"> Link</a> </td>
+                  <td> <a> None</a> </td>
+                </tr>
+
+                <tr>
+                  <th scope="row">12</th>
+                  <td>Homework 12.1</td>
+                  <td>Carousal</td>
+                  <td><a href="https://react-basicspractice.netlify.app/"> Link</a> </td>
+                  <td> <a href="https://github.com/Avinash-Murugappan/React-Basics-Practice" >Link</a> </td>
+                </tr>
+
 
       </tbody>
     </Table>
