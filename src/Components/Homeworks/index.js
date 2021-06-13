@@ -152,6 +152,22 @@ function Homeworks() {
                   <td> <a href="https://github.com/Avinash-Murugappan/React-Basics-Practice" >Link</a> </td>
                 </tr>
 
+                 <tr>
+                  <th scope="row">12</th>
+                  <td>Homework 12.2</td>
+                  <td>Class Favorites</td>
+                  <td><a href="https://react-basicspractice.netlify.app/"> Link</a> </td>
+                  <td> <a href="https://github.com/Avinash-Murugappan/Vote-Favorite-Student" >Link</a> </td>
+                </tr>
+
+                 <tr>
+                  <th scope="row">13</th>
+                  <td>Homework 13.1</td>
+                  <td>React Magazine</td>
+                  <td><a href="https://marvel-magazine.netlify.app/"> Link</a> </td>
+                  <td> <a href="https://github.com/Avinash-Murugappan/Marvel-magazine-posters-react" >Link</a> </td>
+                </tr>
+
 
       </tbody>
     </Table>
